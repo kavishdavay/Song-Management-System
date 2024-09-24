@@ -8,7 +8,7 @@
 </p><br>
 
 <font color="blue"><h2>Overview</h2></font>
-This goal of this project was to develop a system that could store millions of songs and allow CRUD operations. <br>
+The goal of this project was to develop a system that could store millions of songs and allow CRUD operations. <br>
 A hashtable data structure and linked list were combined using the separate chaining technique and implemented from scratch without any external libraries.
 
 <font color="blue"><h3>Report 📚</h3></font>
